@@ -70,15 +70,15 @@ body {
 }
 
 .destaque-html {
-    color: orange;
+    color: #ffa500;
 }
 
 .destaque-css {
-    color: blue;
+    color: #0000FF;
 }
 
 .destaque-java {
-    color: yellow;
+    color: #FFFF00;
 }
 
 .apresentacao__links {
